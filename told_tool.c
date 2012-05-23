@@ -23,7 +23,7 @@ typedef struct data {
 }; 
 
 int main( int argc, char *argv[] ) {
-	/* intializations */
+	/* Initializations */
 	char inputBuffer[250];			/* input buffer for lines, should be 201 characters maximum */
 	char *ibPtr;	
 	int n;							/* counter for parsing lines */
